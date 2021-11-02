@@ -1,4 +1,4 @@
-|Build Status| |APGL v3.0 license| |PyPI| |Discord| |StackOverflow|
+|APGL v3.0 license| |PyPI| |Discord| |StackOverflow|
 
 ResponsibleAI
 =========
@@ -91,10 +91,8 @@ Reporting security issues
 To report security issues please send an email to
 ``contact@equality-ai.com``.
 
-.. |APGL v3.0 license| image:: https://img.shields.io/badge/License-MIT-blue.svg
-   :target: https://github.com/fairlearn/fairlearn/blob/main/LICENSE
-.. |PyPI| image:: https://img.shields.io/pypi/v/fairlearn?color=blue
-   :target: https://pypi.org/project/fairlearn/
+.. |APGL v3.0 license| image:: https://img.shields.io/badge/license-APGL%20v3.0-green
+   :target: https://opensource.org/licenses/AGPL-3.0
 .. |Discord| image:: https://img.shields.io/discord/840099830160031744
    :target: https://discord.gg/R22yCfgsRn
 .. |StackOverflow| image:: https://img.shields.io/badge/StackOverflow-questions-blueviolet
