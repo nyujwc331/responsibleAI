@@ -31,7 +31,7 @@ address challenges around AI from an ethical and legal perspective.
 In responsibleAI, we are creating open source tools that can be
 incorporated into a healthcare developers workflow.
 
-.. image:: img/the project.PNG
+.. image:: img/the%20project.PNG
 
 Responsible AI framework
 ---------------------
