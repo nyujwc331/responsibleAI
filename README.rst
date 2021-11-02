@@ -37,25 +37,6 @@ incorporated into a healthcare developers workflow.
    :width: 800
    :align: center
 
--  *Robust & Reliable* high performance, always available AI systems 
-   that produce reliable outputs
-
--  *Respectful of Privacy* flexible data model to opt in and out of 
-   data sharing.
-
--  *Safe & Secure* protect AI systems from risk that may cause physical 
-   and digital harm
-
--  *Fair & Impartial* AI models that include internal and external checks 
-   for fair and equitable outcomes
-
--  *Transparent & Explainable* advancing explainable AI with algorithms, 
-   attributes and correlations that are transparent
-
--  *Responsible & Accountable* Health systems and marketplace accountability 
-   for the output of AI system decisions
-
-
 Contributing
 ------------
 
