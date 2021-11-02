@@ -2,7 +2,7 @@
 
 .. raw:: html
 
-   <img src="img/finalcol.png" align="center" width="200px" alt="center-aligned logo at top">
+   <img src="img/finalcol.png" align="center" width="300px" alt="center-aligned logo at top">
 
 Responsible Equality AI Toolkit
 =========
@@ -26,42 +26,16 @@ Website: https://equality-ai.com/
 
 
 What we mean by *responsible*
---------------------------
+=========
 
 Responsible AI is a governance framework that guides how organizations
 address challenges around AI from an ethical and legal perspective.
 In responsibleAI, we are creating open source tools that can be
 incorporated into a healthcare developers workflow.
 
-.. image:: img/the%20project.PNG
-   :width: 400
+.. image:: https://github.com/EqualityAI/responsibleAI/blob/main/img/frameworkprojectside.PNG
+   :width: 900
    :align: center
-
-Responsible AI framework
----------------------
-
-.. image:: img/framework.PNG
-   :width: 400
-   :align: center
-
--  *Robust & Reliable* high performance, always available AI systems 
-   that produce reliable outputs
-
--  *Respectful of Privacy* flexible data model to opt in and out of 
-   data sharing.
-
--  *Safe & Secure* protect AI systems from risk that may cause physical 
-   and digital harm
-
--  *Fair & Impartial* AI models that include internal and external checks 
-   for fair and equitable outcomes
-
--  *Transparent & Explainable* advancing explainable AI with algorithms, 
-   attributes and correlations that are transparent
-
--  *Responsible & Accountable* Health systems and marketplace accountability 
-   for the output of AI system decisions
-
 
 Contributing
 ------------
