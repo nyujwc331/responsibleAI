@@ -2,7 +2,7 @@
 
 .. raw:: html
 
-   <img src="img/finalcol.png" align="center" width="200px" alt="center-aligned logo at top">
+   <img src="img/finalcol.png" align="center" width="300px" alt="center-aligned logo at top">
 
 Responsible Equality AI Toolkit
 =========
