@@ -92,7 +92,7 @@ To report security issues please send an email to
 ``contact@equality-ai.com``.
 
 .. |APGL v3.0 license| image:: https://img.shields.io/badge/License-MIT-blue.svg
-   :target: 
+   :target: https://github.com/fairlearn/fairlearn/blob/main/LICENSE
 .. |PyPI| image:: https://img.shields.io/pypi/v/fairlearn?color=blue
    :target: https://pypi.org/project/fairlearn/
 .. |Discord| image:: https://img.shields.io/discord/840099830160031744
