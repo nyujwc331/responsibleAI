@@ -1,4 +1,3 @@
-# responsibleAI
 |Build Status| |APGL v3.0 license| |PyPI| |Discord| |StackOverflow|
 
 ResponsibleAI
