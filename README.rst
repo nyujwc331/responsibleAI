@@ -1,6 +1,6 @@
 |APGL v3.0 license| |Discord| |StackOverflow|
 
-<img src="https://github.com/EqualityAI/responsibleAI/tree/main/img/finalcol" align="right" alt="" width="120" />
+<img src="https://github.com/EqualityAI/responsibleAI/tree/main/img/finalcol.png" align="right" alt="" width="120" />
 
 ResponsibleAI
 =========
