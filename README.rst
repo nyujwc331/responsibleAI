@@ -34,7 +34,7 @@ In responsibleAI, we are creating open source tools that can be
 incorporated into a healthcare developers workflow.
 
 .. image:: https://github.com/EqualityAI/responsibleAI/blob/main/img/frameworkprojectside.PNG
-   :width: 400
+   :width: 600
    :align: center
 
 -  *Robust & Reliable* high performance, always available AI systems 
