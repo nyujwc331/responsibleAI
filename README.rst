@@ -1,9 +1,9 @@
 |APGL v3.0 license| |Discord| |StackOverflow|
 
-.. image:: img/finalcol.png
-   :width: 400
-   :align: center
-  
+.. raw:: html
+
+   <img src="img/finalcol.png" align="center" width="400px" alt="center-aligned logo at top">
+
 ResponsibleAI
 =========
 
