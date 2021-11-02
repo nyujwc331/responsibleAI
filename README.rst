@@ -31,12 +31,12 @@ address challenges around AI from an ethical and legal perspective.
 In responsibleAI, we are creating open source tools that can be
 incorporated into a healthcare developers workflow.
 
-.. image:: img/the project.png
+.. image:: img/the project.PNG
 
 Responsible AI framework
 ---------------------
 
-.. image:: img/framework.png
+.. image:: img/framework.PNG
 
 -  *Robust & Reliable* high performance, always available AI systems 
    that produce reliable outputs
