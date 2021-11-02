@@ -94,6 +94,6 @@ To report security issues please send an email to
 .. |APGL v3.0 license| image:: https://img.shields.io/badge/license-APGL%20v3.0-green
    :target: https://opensource.org/licenses/AGPL-3.0
 .. |Discord| image:: https://img.shields.io/discord/840099830160031744
-   :target: https://discord.gg/R22yCfgsRn
+   :target: https://discord.gg/jrgsQJcjty
 .. |StackOverflow| image:: https://img.shields.io/badge/StackOverflow-questions-blueviolet
    :target: https://stackoverflow.com/questions/tagged/fairlearn
