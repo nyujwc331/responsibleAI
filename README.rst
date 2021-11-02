@@ -2,7 +2,7 @@
 
 .. raw:: html
 
-   <img src="https://github.com/EqualityAI/responsibleAI/blob/main/img/Fleece.png" align="center" width="300px" alt="center-aligned logo at top">
+   <img src="https://github.com/EqualityAI/responsibleAI/blob/main/img/finalbw.png" align="center" width="300px" alt="center-aligned logo at top">
 
 Responsible Equality AI Toolkit
 =========
