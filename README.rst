@@ -1,4 +1,4 @@
-|APGL v3.0 license| |PyPI| |Discord| |StackOverflow|
+|APGL v3.0 license| |Discord| |StackOverflow|
 
 ResponsibleAI
 =========
