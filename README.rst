@@ -1,7 +1,9 @@
 |APGL v3.0 license| |Discord| |StackOverflow|
 
 .. image:: img/finalcol.png
-
+  :width: 400
+  :align: center
+  
 ResponsibleAI
 =========
 
@@ -32,11 +34,15 @@ In responsibleAI, we are creating open source tools that can be
 incorporated into a healthcare developers workflow.
 
 .. image:: img/the%20project.PNG
+  :width: 400
+  :align: center
 
 Responsible AI framework
 ---------------------
 
 .. image:: img/framework.PNG
+  :width: 400
+  :align: center
 
 -  *Robust & Reliable* high performance, always available AI systems 
    that produce reliable outputs
