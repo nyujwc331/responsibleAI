@@ -1,4 +1,4 @@
-|APGL v3.0 license| |Discord| |StackOverflow|
+|APGL v3.0 license| |Discord| 
 
 .. raw:: html
 
@@ -52,14 +52,6 @@ A list of current maintainers is
 Issues
 ------
 
-Usage Questions
-~~~~~~~~~~~~~~~
-
-Pose questions and help answer them on `Stack
-Overflow <https://stackoverflow.com/questions/tagged/fairlearn>`__ with
-the tag ``fairlearn`` or on
-`Discord <https://discord.gg/R22yCfgsRn>`__.
-
 Regular (non-security) issues
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -80,5 +72,3 @@ To report security issues please send an email to
    :target: https://opensource.org/licenses/AGPL-3.0
 .. |Discord| image:: https://img.shields.io/discord/905092250151817267
    :target: https://discord.gg/jrgsQJcjty
-.. |StackOverflow| image:: https://img.shields.io/badge/StackOverflow-questions-blueviolet
-   :target: https://stackoverflow.com/questions/tagged/fairlearn
