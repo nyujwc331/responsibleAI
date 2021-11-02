@@ -4,7 +4,7 @@
 
    <img src="img/finalcol.png" align="center" width="200px" alt="center-aligned logo at top">
 
-<img src="img/finalcol.png" align="center" width="200px" alt="center-aligned logo at top"> ResponsibleAI
+Responsible Equality AI Toolkit
 =========
 
 ResponsibleAI is an EHR agnostic toolkit that empowers developers of 
