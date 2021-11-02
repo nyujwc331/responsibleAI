@@ -93,7 +93,7 @@ To report security issues please send an email to
 
 .. |Build Status| image:: https://dev.azure.com/responsibleai/fairlearn/_apis/build/status/Nightly?branchName=main
    :target: https://dev.azure.com/responsibleai/fairlearn/_build/latest?definitionId=23&branchName=main
-.. |MIT license| image:: https://img.shields.io/badge/License-MIT-blue.svg
+.. |APGL v3.0 license| image:: https://img.shields.io/badge/License-MIT-blue.svg
    :target: https://github.com/fairlearn/fairlearn/blob/main/LICENSE
 .. |PyPI| image:: https://img.shields.io/pypi/v/fairlearn?color=blue
    :target: https://pypi.org/project/fairlearn/
