@@ -2,7 +2,7 @@
 
 .. raw:: html
 
-   <img src="https://github.com/EqualityAI/responsibleAI/blob/main/img/collogostacked.PNG" align="center" width="200px" alt="center-aligned logo at top">
+   <img src="https://github.com/EqualityAI/responsibleAI/blob/main/img/collogo.PNG" align="center" width="200px" alt="center-aligned logo at top">
 
 Responsible Equality AI Toolkit
 =========
