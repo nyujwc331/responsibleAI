@@ -26,7 +26,7 @@ Website: https://equality-ai.com/
 
 
 What we mean by *responsible*
---------------------------
+=========
 
 Responsible AI is a governance framework that guides how organizations
 address challenges around AI from an ethical and legal perspective.
