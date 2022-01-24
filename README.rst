@@ -14,7 +14,7 @@ is dedicated to making progress in the development of AI standards by
 providing trustworthy services and a collection of open source resources 
 and tools for the ML Healthcare community. ResponsibleAI contains mitigation 
 algorithms as well as metrics for model assessment at each stage of the data 
-science workflow in Healthare. 
+science workflow in Healthcare. 
 
 Website: https://equality-ai.com/
 
