@@ -4,6 +4,34 @@
 
    <img src="https://github.com/EqualityAI/responsibleAI/blob/main/img/collogo.PNG" align="center" width="150px" alt="center-aligned logo at top">
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Responsible Equality AI Toolkit
 =========
 
